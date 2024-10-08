@@ -1,0 +1,266 @@
+body{
+    background-color: hsl(210, 46%, 95%);
+}
+.main-box{
+    border: hidden;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+svg{
+    position: relative;
+    left: 290px;
+    bottom: 215px;
+}
+#daniel{
+    border: solid;
+    border-color: hsl(263, 55%, 52%);
+    border-radius: 10px;
+    height: 230px;
+    width: 480px;
+    background-color: hsl(263, 55%, 52%);
+    box-shadow: hsl(240, 1%, 84%) 3px 3px 40px;
+}
+.daniel-info{
+    border: hidden;
+    height: 190px;
+    width: 440px;
+    margin: auto;
+    margin-top: 15px;
+    font-family: "barlow semi condensed";
+}
+.daniel-info img{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+}
+.daniel-profile h3{
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(0, 0%, 81%);
+}
+.daniel-profile p{
+    margin-top: -20px;
+    font-size: 12px;
+    color: hsl(0, 0%, 81%);
+}
+.daniel-profile{
+    margin-left: 50px;
+    margin-top: -50px;
+}
+.daniel-bio h3{
+    font-size: large;
+    font-weight: 500;
+    margin-top: -1px;
+    color: white;
+}
+.daniel-bio p{
+    font-size: 12px;
+    margin-top: -7px;
+    color: hsl(0, 0%, 81%);
+}
+.jean{
+    border: solid;
+    border-color: white;
+    border-radius: 10px;
+    height: 233px;
+    width: 230px;
+    margin-top: 27px;
+    background-color: white;
+    box-shadow: hsl(240, 1%, 84%) 3px 3px 40px;
+}
+.jean-info{
+    border: hidden;
+    height: 190px;
+    width: 200px;
+    margin: auto;
+    margin-top: 15px;
+    font-family: "barlow semi condensed";
+}
+.jean-info img{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+}
+.jean-profile h3{
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(217, 19%, 35%);
+}
+.jean-profile p{
+    margin-top: -20px;
+    font-size: 12px;
+    color: hsl(0, 0%, 81%);
+}
+.jean-profile{
+    margin-left: 50px;
+    margin-top: -50px;
+}
+.jean-bio h3{
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: -5px;
+    color: hsl(217, 19%, 35%);
+}
+.jean-bio p{
+    font-size: 13px;
+    margin-top: -7px;
+    color: hsl(0, 0%, 81%);
+}
+.jonathan{
+    border: solid;
+    border-color: hsl(217, 19%, 35%);
+    border-radius: 10px;
+    height: 230px;
+    width: 230px;
+    position: relative;
+    left: 505px;
+    bottom: 502px;
+    background-color: hsl(217, 19%, 35%);
+    box-shadow: hsl(240, 1%, 84%) 3px 3px 40px;
+}
+.jonathan-info{
+    border: hidden;
+    height: 190px;
+    width: 200px;
+    margin: auto;
+    margin-top: 15px;
+    font-family: "barlow semi condensed";
+}
+.jonathan-info img{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+}
+.jonathan-profile h3{
+    font-size: 15px;
+    font-weight: 400;
+    color: white
+}
+.jonathan-profile p{
+    margin-top: -20px;
+    font-size: 12px;
+    color: hsl(0, 0%, 81%);
+}
+.jonathan-profile{
+    margin-left: 50px;
+    margin-top: -50px;
+}
+.jonathan-bio h3{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: -5px;
+    color: white;
+}
+.jonathan-bio p{
+    font-size: 12px;
+    margin-top: -7px;
+    color: hsl(0, 0%, 81%);
+}
+#patrick{
+    border: solid;
+    border-color: hsl(219, 29%, 14%);
+    border-radius: 10px;
+    height: 233px;
+    width: 480px;
+    position: relative;
+    left: 255px;
+    bottom: 475px;
+    background-color: hsl(219, 29%, 14%);
+    box-shadow: hsl(240, 1%, 84%) 3px 3px 40px;
+}
+.patrick-info{
+    border: hidden;
+    height: 190px;
+    width: 440px;
+    margin: auto;
+    margin-top: 15px;
+    font-family: "barlow semi condensed";
+}
+.patrick-info img{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+}
+.patrick-profile h3{
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(0, 0%, 81%);
+}
+.patrick-profile p{
+    margin-top: -20px;
+    font-size: 12px;
+    color: hsl(0, 0%, 81%);
+}
+.patrick-profile{
+    margin-left: 50px;
+    margin-top: -50px;
+}
+.patrick-bio h3{
+    font-size: large;
+    font-weight: 500;
+    margin-top: -1px;
+    color: white;
+}
+.patrick-bio p{
+    font-size: 12px;
+    margin-top: -7px;
+    color: hsl(0, 0%, 81%);
+}
+.kira{
+    border: solid;
+    border-color: white;
+    border-radius: 10px;
+    background-color: white;
+    height: 497px;
+    width: 230px;
+    position: relative;
+    left: 767px;
+    bottom: 977px;
+    box-shadow: hsl(240, 1%, 84%) 3px 3px 40px;
+}
+.kira-info{
+    border: hidden;
+    height: 460px;
+    width: 200px;
+    margin: auto;
+    margin-top: 15px;
+    font-family: "barlow semi condensed";
+}
+.kira-info img{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+}
+.kira-profile h3{
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(217, 19%, 35%);
+}
+.kira-profile p{
+    margin-top: -20px;
+    font-size: 12px;
+    color: hsl(0, 0%, 81%);
+}
+.kira-profile{
+    margin-left: 50px;
+    margin-top: -50px;
+}
+.kira-bio h3{
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: -1px;
+    color: hsl(217, 19%, 35%);
+}
+.kira-bio p{
+    font-size: 13px;
+    margin-top: -5px;
+    color: hsl(0, 0%, 81%);
+}
